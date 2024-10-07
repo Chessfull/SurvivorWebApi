@@ -1,6 +1,6 @@
 ## This is Survivor Web API is an ASP.NET Core Web API designed to manage competitors and categories for a competition. It provides CRUD operations. :notebook: C#
 
-## Features
+### Features
 - Manage competitors and categories through a RESTful API.
 - Get all competitors or a specific competitor by ID.
 - Get competitors filtered by category.
